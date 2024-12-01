@@ -2938,24 +2938,24 @@
 			"key": "hipy_js_腾云驾雾[官]",
 			"name": "腾讯 | [官]",
 			"type": 3,
-			"api": "https://ghp.ci/https://raw.githubusercontent.com/dwm55555/dwm/refs/heads/main/drpy2.min.js",
+			"api": "./drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "https://ghp.ci/https://raw.githubusercontent.com/dwm55555/dwm/refs/heads/main/腾云驾雾[官].js"
+			"ext": "./腾云驾雾[官].js"
 		},
     
     {
 			"key": "hipy_js_奇珍异兽[官]",
 			"name": "奇异 | [官]",
 			"type": 3,
-			"api": "https://ghp.ci/https://raw.githubusercontent.com/dwm55555/dwm/refs/heads/main/drpy2.min.js",
+			"api": "./drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "https://ghp.ci/https://raw.githubusercontent.com/dwm55555/dwm/refs/heads/main/奇珍异兽[官].js"
+			"ext": "./奇珍异兽[官].js"
 		},
 		{
 			"key": "hipy_js_优酷[官]",
