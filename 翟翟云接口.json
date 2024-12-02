@@ -327,7 +327,7 @@
         
 {
       "key": "豆豆",
-      "name": "★1130热门更新 | 翟翟维护",
+      "name": "★1130热门更新 | 翟翟采集",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -2938,7 +2938,7 @@
 			"key": "hipy_js_腾云驾雾[官]",
 			"name": "腾讯 | [官]",
 			"type": 3,
-			"api": "./drpy2.min.js",
+			"api": "https://ghp.ci/https://raw.githubusercontent.com/dwm55555/dwm/refs/heads/main/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -2950,7 +2950,7 @@
 			"key": "hipy_js_奇珍异兽[官]",
 			"name": "奇异 | [官]",
 			"type": 3,
-			"api": "./drpy2.min.js",
+			"api": "https://ghp.ci/https://raw.githubusercontent.com/dwm55555/dwm/refs/heads/main/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -3541,7 +3541,7 @@
   "lives": [ {
       "name": "翟翟采集电视直播",
       "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/dwm55555/dwm/refs/heads/main/翟翟维护电视直播.m3u",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/dwm55555/dwm/refs/heads/main/翟翟采集电视直播.m3u",
       "playerType": 2,
        "ua": "okhttp/3.15",
       "epg": "https://live.fanmingming.com/e.xml",

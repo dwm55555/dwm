@@ -1,0 +1,42 @@
+{
+  "spider": "https://ghp.ci/https://raw.githubusercontent.com/dwm55555/dwm/refs/heads/main/fan.jar",
+   "logo": "https://ghp.ci/https://raw.githubusercontent.com/dwm55555/dwm/refs/heads/main/TV.jpg",
+   
+   "wallpaper": "https://ghp.ci/https://raw.githubusercontent.com/dwm55555/dwm/refs/heads/main/壁纸.jpg",
+  
+  "sites": [
+    
+    {
+      "key": "直播",
+      "name": "欢迎使用★翟翟采集★电视直播",
+      "type": 3,
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+      
+      
+    }
+    
+    
+  ],
+  
+  "lives": [
+    {
+       "name": "翟翟采集电视直播",
+      "type": 0,
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/dwm55555/dwm/refs/heads/main/翟翟采集电视直播.m3u",
+
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+    
+    
+   
+    
+    
+  ]
+  
+  
+}
