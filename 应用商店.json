@@ -6,13 +6,13 @@
             {
                 "name": "手機-2.63",
                 "url": "https://ghp.ci/https://raw.githubusercontent.com/lystv/fmapp/e86ba601ddc2607fd75b3026018a82bc33c2d19c/apk/release/mobile-python-armeabi_v7a.apk",
-                "icon": "./TV.jpg",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
                 "version": "OK-2.6.3"
             },
             {
                 "name": "電視-2.63",
                 "url": "https://ghp.ci/https://raw.githubusercontent.com/lystv/fmapp/e86ba601ddc2607fd75b3026018a82bc33c2d19c/apk/release/leanback-python-armeabi_v7a.apk",
-                "icon": "./TV.jpg",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
                 "version": "OK-2.6.3"
             }
             
@@ -25,26 +25,26 @@
             {
                 "name": "手機-2.63",
                 "url": "https://ghp.ci/https://raw.githubusercontent.com/lystv/fmapp/e86ba601ddc2607fd75b3026018a82bc33c2d19c/apk/release/mobile-python-armeabi_v7a.apk",
-                "icon": "./TV.jpg",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
                 "version": "OK-2.6.3"
             },
             {
                 "name": "電視-2.63",
                 "url": "https://ghp.ci/https://raw.githubusercontent.com/lystv/fmapp/e86ba601ddc2607fd75b3026018a82bc33c2d19c/apk/release/leanback-python-armeabi_v7a.apk",
-                "icon": "./TV.jpg",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
                 "version": "OK-2.6.3"
             },
             
             {
                 "name": "海信電視专版",
                 "url": "https://ghp.ci/https://raw.githubusercontent.com/lystv/fmapp/e86ba601ddc2607fd75b3026018a82bc33c2d19c/apk/dev/海信专版.apk",
-                "icon": "./TV.jpg",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
                 "version": "OK-2.6.3"
             },
             {
                 "name": "電視x5离线版",
                 "url": "https://ghp.ci/https://raw.githubusercontent.com/lystv/fmapp/e86ba601ddc2607fd75b3026018a82bc33c2d19c/apk/dev/电视版-X5离线.apk",
-                "icon": "./TV.jpg",
+                "icon": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lystv/fmapp/img/log/ys.jpg",
                 "version": "OK-2.6.3"
             }
             
